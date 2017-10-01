@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\APIS\.android\build-cache\2a5ff7343ec3dcfd782f7e7092442292774aff1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\APIS\AndroidStudioProjects\OutdoorUnion\app\build\intermediates\pre-dexed\debug\classes_fb7a7b3c8b1ee0facf1fc77b4d461fdc1ff20262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\APIS\.android\build-cache\9a24b113884cf9036d69b1695c00d645949b2776\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\APIS\AndroidStudioProjects\OutdoorUnion\app\build\intermediates\pre-dexed\debug\classes_49b2f7b5f141046e64ff9d3357aadee713c29405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\APIS\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\APIS\AndroidStudioProjects\OutdoorUnion\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_c5797604e67fb1c8f55ac65b30a232ab617dcfb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\APIS\.android\build-cache\e96bae8b10d07d4d4625865a5baced562636b5c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\APIS\AndroidStudioProjects\OutdoorUnion\app\build\intermediates\pre-dexed\debug\classes_ac85d33d8ee4434acf66f632058509dc68266103.jar" />
+    </item>
+
+</items>

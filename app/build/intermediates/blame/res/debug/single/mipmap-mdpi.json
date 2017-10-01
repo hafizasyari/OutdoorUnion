@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\APIS\\AndroidStudioProjects\\OutdoorUnion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\APIS\\AndroidStudioProjects\\OutdoorUnion\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\APIS\\AndroidStudioProjects\\OutdoorUnion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\logoblue.png",
+        "source": "C:\\Users\\APIS\\AndroidStudioProjects\\OutdoorUnion\\app\\src\\main\\res\\mipmap-mdpi\\logoblue.png"
+    },
+    {
+        "merged": "C:\\Users\\APIS\\AndroidStudioProjects\\OutdoorUnion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_backblue.png",
+        "source": "C:\\Users\\APIS\\AndroidStudioProjects\\OutdoorUnion\\app\\src\\main\\res\\mipmap-mdpi\\ic_backblue.png"
+    },
+    {
+        "merged": "C:\\Users\\APIS\\AndroidStudioProjects\\OutdoorUnion\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_backwhite.png",
+        "source": "C:\\Users\\APIS\\AndroidStudioProjects\\OutdoorUnion\\app\\src\\main\\res\\mipmap-mdpi\\ic_backwhite.png"
+    }
+]
